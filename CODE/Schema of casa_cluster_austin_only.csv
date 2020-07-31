@@ -1,0 +1,13 @@
+name,type,name,type,name,type
+@odata.context,string,LivingArea,bigint,YearBuilt,bigint
+@odata.id,string,PoolPrivateYN,boolean,UrbanPercent,double
+BathroomsFull,bigint,PostalCode,bigint,MalePopPercentage,double
+BathroomsHalf,double,PropertySubType,string,MaxRacePopPercent,double
+BedroomsTotal,bigint,Roof,string,MultiRacePopPercent,double
+City,string,Sewer,string,OwnMortgagePercentage,double
+Coordinates,string,StateOrProvince,string,OwnNoMortgagePercentage,double
+CoveredSpaces,bigint,StreetName,string,RentersPercentage,double
+FireplacesTotal,double,StreetNumber,string,AvgHouseholdSize,double
+Flooring,string,ViewYN,string,HouseholdsMoreThan3GensPercetage,double
+GarageYN,boolean,WaterSource,string,AdjMinGrossIncomePerReturn,double
+Levels,string,WaterfrontYN,boolean,AdjListPrice,double
